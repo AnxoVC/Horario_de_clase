@@ -57,3 +57,7 @@ Horario-de-clase-/
 ├── style.css     # Estilos y diseño de colores
 └── README.md     # Documentación del proyecto
 
+## Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**. Eres libre de usarlo, modificarlo y compartirlo.
+
