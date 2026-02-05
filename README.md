@@ -4,6 +4,12 @@ Una aplicación web sencilla, limpia y funcional para gestionar y visualizar tu 
 
 ---
 
+## Ver Proyecto en Vivo
+Haz clic en el enlace para ver la terminal en acción:
+> [anxovc.github.io/Horario_de_clase/](https://anxovc.github.io/Horario_de_clase/)
+
+---
+
 ## Características
 
 *  **Visualización por horas:** Estructura clara desde la mañana hasta la tarde.
@@ -50,3 +56,4 @@ Horario-de-clase-/
 ├── index.html    # Estructura principal del horario
 ├── style.css     # Estilos y diseño de colores
 └── README.md     # Documentación del proyecto
+
